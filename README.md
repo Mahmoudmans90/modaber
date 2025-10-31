@@ -20,3 +20,4 @@ Simply clone or download the repository and open the `index.html` file in your b
 
 ```bash
 git clone https://github.com/mahmoudmans90/modaber.git
+https://mahmoudmans90.github.io/modaber/
