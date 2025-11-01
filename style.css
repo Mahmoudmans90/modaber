@@ -793,11 +793,11 @@ td, th {
   }
   .div5{
     grid-column: 1 / span 12; 
-    grid-row: 4; 
+    grid-row: 5; 
   }
   .div6{
     grid-column: 1 / span 12; 
-    grid-row: 5; 
+    grid-row: 6; 
   }
   .div7{
     grid-column: 1 / span 12; 
