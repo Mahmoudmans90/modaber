@@ -822,5 +822,7 @@ td, th {
   .logo_content{
     display: none;
   }
-  
+  .search , .alert{
+    display:none;
+  }
 }
