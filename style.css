@@ -819,10 +819,15 @@ td, th {
     grid-column: 1 / span 12; 
     grid-row: 11;
   }
-  .logo_content{
-    display: none;
-  }
-  .search , .alert{
-    display:none;
-  }
+ .div1{
+  display: grid;
+  grid-template-columns: auto;
+  grid-template-rows: auto;
+ }
+ .online{
+  grid-row-start: 3;
+ }
+ .header-controlls{
+  justify-content: space-between;
+ }
 }
