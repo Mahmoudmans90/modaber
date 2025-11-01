@@ -481,11 +481,12 @@ table img{
 .borderd-buttom{
   border-bottom: 1px solid #f0fdf4 ;
 }
-/* table {
-  table-layout: auto;
-  width: auto;
-  border-collapse: collapse;
-} */
+.overview {
+  overflow-x: auto; 
+  overflow-y: hidden; 
+  white-space: nowrap;
+  scroll-behavior: smooth;
+}
 td, th {
   text-align: start;
   padding: 20px 0px;
@@ -818,4 +819,8 @@ td, th {
     grid-column: 1 / span 12; 
     grid-row: 11;
   }
+  .logo_content{
+    display: none;
+  }
+  
 }
